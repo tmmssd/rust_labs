@@ -1,0 +1,11 @@
+C:\Users\sedia\Desktop\PDS\rust_labs\01-Basics\my_first_program\target\debug\deps\librand_core-2ce128428ed8be63.rmeta: C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\os.rs
+
+C:\Users\sedia\Desktop\PDS\rust_labs\01-Basics\my_first_program\target\debug\deps\librand_core-2ce128428ed8be63.rlib: C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\os.rs
+
+C:\Users\sedia\Desktop\PDS\rust_labs\01-Basics\my_first_program\target\debug\deps\rand_core-2ce128428ed8be63.d: C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\os.rs
+
+C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs:
+C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs:
+C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs:
+C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs:
+C:\Users\sedia\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\os.rs:
